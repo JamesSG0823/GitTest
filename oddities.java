@@ -12,11 +12,6 @@ public class oddities
 			int numberToCheck = input.nextInt();
 
 			boolean isEven = false;
-			
-			if(numberToCheck % 2 == 0)
-			{
-				isEven = true;
-			}//if
 		}//for
 	}//main method
 }//class
